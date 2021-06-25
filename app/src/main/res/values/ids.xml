@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextActivity" type="id" />
+    <item name="buttonAddActivity" type="id" />
+    <item name="buttonDeleteActivity" type="id" />
+</resources>
